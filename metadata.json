@@ -1,0 +1,6 @@
+{
+  "name": "Daily Attendance Tracker",
+  "description": "Daily attendance tracking app featuring real-time data sync status and automated monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
